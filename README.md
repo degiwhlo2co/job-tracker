@@ -1,2 +1,8 @@
 # job-tracker
-Application to track jobs applied for and their status
+Application to track job applications
+
+User can
+- add job
+- view saved jobs
+- update application status
+- delete jobs
